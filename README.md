@@ -1,1 +1,1 @@
-The data is about medical related
+The data is about medical related.
